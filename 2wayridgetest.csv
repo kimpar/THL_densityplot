@@ -1,11 +1,6 @@
-kunta,summa,laji,vaestonmuutos
-Alajärvi,1407,esh,4
-Alavieska,1205.2,esh,4
-Alavus,1401.8,esh,4
-Asikkala,1101.1,esh,3
-Askola,1176.7,esh,3
-Alajärvi,221.5,kotihoito,4
-Alavieska,248.7,kotihoito,4
-Alavus,331.4,kotihoito,4
-Asikkala,275.2,kotihoito,3
-Askola,212.2,kotihoito,3
+kunta;summa;laji;kotihoito;vaestonmuutos
+Alajärvi;1407;221.5;4
+Alavieska;1205.2;;248.7;4
+Alavus;1401.8;331.4;4
+Asikkala;1101.1;275.2;3
+Askola;1176.7;212.2;3
