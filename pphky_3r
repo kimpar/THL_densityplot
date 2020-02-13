@@ -1,10 +1,10 @@
-Kunta	Summa	Laji
-Asikkala	1411	Erikoissairaanhoito
-Hartola	1446	Erikoissairaanhoito
-Hollola	1259	Erikoissairaanhoito
-Iitti	1431	Erikoissairaanhoito
-Kärkölä	1323	Erikoissairaanhoito
-Lahti	1285	Erikoissairaanhoito
+Kunta;Summa;Laji
+Asikkala;1411;Erikoissairaanhoito
+Hartola;1446;Erikoissairaanhoito
+Hollola;1259;Erikoissairaanhoito
+Iitti;1431;Erikoissairaanhoito
+Kärkölä;1323;Erikoissairaanhoito
+Lahti;1285;Erikoissairaanhoito
 Myrskylä	1283	Erikoissairaanhoito
 Orimattila	1256	Erikoissairaanhoito
 Padasjoki	1549	Erikoissairaanhoito
