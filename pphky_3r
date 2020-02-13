@@ -7,95 +7,95 @@ Kärkölä;1323;Erikoissairaanhoito
 Lahti;1285;Erikoissairaanhoito
 Myrskylä;1283;Erikoissairaanhoito
 Orimattila;1256;Erikoissairaanhoito
-Padasjoki	1549	Erikoissairaanhoito
-Pukkila	1107	Erikoissairaanhoito
-Asikkala	585	Perusterveydenhuollon avohoito
-Hartola	724	Perusterveydenhuollon avohoito
-Hollola	577	Perusterveydenhuollon avohoito
-Iitti	660	Perusterveydenhuollon avohoito
-Kärkölä	595	Perusterveydenhuollon avohoito
-Lahti	566	Perusterveydenhuollon avohoito
-Myrskylä	629	Perusterveydenhuollon avohoito
-Orimattila	641	Perusterveydenhuollon avohoito
-Padasjoki	493	Perusterveydenhuollon avohoito
-Pukkila	637	Perusterveydenhuollon avohoito
-Asikkala	276	Perusterveydenhuollon vuodeosastohoito
-Hartola	210	Perusterveydenhuollon vuodeosastohoito
-Hollola	171	Perusterveydenhuollon vuodeosastohoito
-Iitti	166	Perusterveydenhuollon vuodeosastohoito
-Kärkölä	198	Perusterveydenhuollon vuodeosastohoito
-Lahti	163	Perusterveydenhuollon vuodeosastohoito
-Myrskylä	201	Perusterveydenhuollon vuodeosastohoito
-Orimattila	172	Perusterveydenhuollon vuodeosastohoito
-Padasjoki	289	Perusterveydenhuollon vuodeosastohoito
-Pukkila	129	Perusterveydenhuollon vuodeosastohoito
-Asikkala	108	Suun terveydenhuolto
-Hartola	140	Suun terveydenhuolto
-Hollola	94	Suun terveydenhuolto
-Iitti	74	Suun terveydenhuolto
-Kärkölä	82	Suun terveydenhuolto
-Lahti	84	Suun terveydenhuolto
-Myrskylä	97	Suun terveydenhuolto
-Orimattila	91	Suun terveydenhuolto
-Padasjoki	118	Suun terveydenhuolto
-Pukkila	94	Suun terveydenhuolto
-Asikkala	382	Ikääntyneiden palvelut
-Hartola	750	Ikääntyneiden palvelut
-Hollola	353	Ikääntyneiden palvelut
-Iitti	562	Ikääntyneiden palvelut
-Kärkölä	439	Ikääntyneiden palvelut
-Lahti	336	Ikääntyneiden palvelut
-Myrskylä	515	Ikääntyneiden palvelut
-Orimattila	443	Ikääntyneiden palvelut
-Padasjoki	1113	Ikääntyneiden palvelut
-Pukkila	493	Ikääntyneiden palvelut
-Asikkala	291	Kotihoito
-Hartola	435	Kotihoito
-Hollola	205	Kotihoito
-Iitti	421	Kotihoito
-Kärkölä	216	Kotihoito
-Lahti	228	Kotihoito
-Myrskylä	268	Kotihoito
-Orimattila	225	Kotihoito
-Padasjoki	366	Kotihoito
-Pukkila	210	Kotihoito
-Asikkala	43	Lasten, nuorten ja perheiden palvelut
-Hartola	37	Lasten, nuorten ja perheiden palvelut
-Hollola	52	Lasten, nuorten ja perheiden palvelut
-Iitti	48	Lasten, nuorten ja perheiden palvelut
-Kärkölä	46	Lasten, nuorten ja perheiden palvelut
-Lahti	55	Lasten, nuorten ja perheiden palvelut
-Myrskylä	42	Lasten, nuorten ja perheiden palvelut
-Orimattila	54	Lasten, nuorten ja perheiden palvelut
-Padasjoki	26	Lasten, nuorten ja perheiden palvelut
-Pukkila	45	Lasten, nuorten ja perheiden palvelut
-Asikkala	299	Vammaisten palvelut
-Hartola	611	Vammaisten palvelut
-Hollola	285	Vammaisten palvelut
-Iitti	340	Vammaisten palvelut
-Kärkölä	276	Vammaisten palvelut
-Lahti	315	Vammaisten palvelut
-Myrskylä	270	Vammaisten palvelut
-Orimattila	286	Vammaisten palvelut
-Padasjoki	463	Vammaisten palvelut
-Pukkila	356	Vammaisten palvelut
-Asikkala	28	Päihdehuollon erityispalvelut
-Hartola	34	Päihdehuollon erityispalvelut
-Hollola	24	Päihdehuollon erityispalvelut
-Iitti	12	Päihdehuollon erityispalvelut
-Kärkölä	31	Päihdehuollon erityispalvelut
-Lahti	54	Päihdehuollon erityispalvelut
-Myrskylä	2	Päihdehuollon erityispalvelut
-Orimattila	19	Päihdehuollon erityispalvelut
-Padasjoki	33	Päihdehuollon erityispalvelut
-Pukkila	1	Päihdehuollon erityispalvelut
-Asikkala	137	Muut sote-kustannukset
-Hartola	199	Muut sote-kustannukset
-Hollola	109	Muut sote-kustannukset
-Iitti	148	Muut sote-kustannukset
-Kärkölä	228	Muut sote-kustannukset
-Lahti	140	Muut sote-kustannukset
-Myrskylä	120	Muut sote-kustannukset
-Orimattila	108	Muut sote-kustannukset
-Padasjoki	83	Muut sote-kustannukset
-Pukkila	67	Muut sote-kustannukset
+Padasjoki;1549;Erikoissairaanhoito
+Pukkila;1107;Erikoissairaanhoito
+Asikkala;585;Perusterveydenhuollon avohoito
+Hartola;724;Perusterveydenhuollon avohoito
+Hollola;577;Perusterveydenhuollon avohoito
+Iitti;660;Perusterveydenhuollon avohoito
+Kärkölä;595;Perusterveydenhuollon avohoito
+Lahti;566;Perusterveydenhuollon avohoito
+Myrskylä;629;Perusterveydenhuollon avohoito
+Orimattila;641;Perusterveydenhuollon avohoito
+Padasjoki;493;Perusterveydenhuollon avohoito
+Pukkila;637;Perusterveydenhuollon avohoito
+Asikkala;276;Perusterveydenhuollon vuodeosastohoito
+Hartola;210;Perusterveydenhuollon vuodeosastohoito
+Hollola;171;Perusterveydenhuollon vuodeosastohoito
+Iitti;166;Perusterveydenhuollon vuodeosastohoito
+Kärkölä;198;Perusterveydenhuollon vuodeosastohoito
+Lahti;163;Perusterveydenhuollon vuodeosastohoito
+Myrskylä;201;Perusterveydenhuollon vuodeosastohoito
+Orimattila;172;Perusterveydenhuollon vuodeosastohoito
+Padasjoki;289;Perusterveydenhuollon vuodeosastohoito
+Pukkila;129;Perusterveydenhuollon vuodeosastohoito
+Asikkala;108;Suun terveydenhuolto
+Hartola;140;Suun terveydenhuolto
+Hollola;94;Suun terveydenhuolto
+Iitti;74;Suun terveydenhuolto
+Kärkölä;82;Suun terveydenhuolto
+Lahti;84;Suun terveydenhuolto
+Myrskylä;97;Suun terveydenhuolto
+Orimattila;91;Suun terveydenhuolto
+Padasjoki;118;Suun terveydenhuolto
+Pukkila;94;Suun terveydenhuolto
+Asikkala;382;Ikääntyneiden palvelut
+Hartola;750;Ikääntyneiden palvelut
+Hollola;353;Ikääntyneiden palvelut
+Iitti;562;Ikääntyneiden palvelut
+Kärkölä;439;Ikääntyneiden palvelut
+Lahti;336;Ikääntyneiden palvelut
+Myrskylä;515;Ikääntyneiden palvelut
+Orimattila;443;Ikääntyneiden palvelut
+Padasjoki;1113;Ikääntyneiden palvelut
+Pukkila;493;Ikääntyneiden palvelut
+Asikkala;291;Kotihoito
+Hartola;435;Kotihoito
+Hollola;205;Kotihoito
+Iitti;421;Kotihoito
+Kärkölä;216;Kotihoito
+Lahti;228;Kotihoito
+Myrskylä;268;Kotihoito
+Orimattila;225;Kotihoito
+Padasjoki;366;Kotihoito
+Pukkila;210;Kotihoito
+Asikkala;43;Lasten, nuorten ja perheiden palvelut
+Hartola;37;Lasten, nuorten ja perheiden palvelut
+Hollola;52;Lasten, nuorten ja perheiden palvelut
+Iitti;48;Lasten, nuorten ja perheiden palvelut
+Kärkölä;46;Lasten, nuorten ja perheiden palvelut
+Lahti;55;Lasten, nuorten ja perheiden palvelut
+Myrskylä;42;Lasten, nuorten ja perheiden palvelut
+Orimattila;54;Lasten, nuorten ja perheiden palvelut
+Padasjoki;26;Lasten, nuorten ja perheiden palvelut
+Pukkila;45;Lasten, nuorten ja perheiden palvelut
+Asikkala;299;Vammaisten palvelut
+Hartola;611;Vammaisten palvelut
+Hollola;285;Vammaisten palvelut
+Iitti;340;Vammaisten palvelut
+Kärkölä;276;Vammaisten palvelut
+Lahti;315;Vammaisten palvelut
+Myrskylä;270;Vammaisten palvelut
+Orimattila;286;Vammaisten palvelut
+Padasjoki;463;Vammaisten palvelut
+Pukkila;356;Vammaisten palvelut
+Asikkala;28;Päihdehuollon erityispalvelut
+Hartola;34;Päihdehuollon erityispalvelut
+Hollola;24;Päihdehuollon erityispalvelut
+Iitti;12;Päihdehuollon erityispalvelut
+Kärkölä;31;Päihdehuollon erityispalvelut
+Lahti;54;Päihdehuollon erityispalvelut
+Myrskylä;2;Päihdehuollon erityispalvelut
+Orimattila;19;Päihdehuollon erityispalvelut
+Padasjoki;33;Päihdehuollon erityispalvelut
+Pukkila;1;Päihdehuollon erityispalvelut
+Asikkala;137;Muut sote-kustannukset
+Hartola;199;Muut sote-kustannukset
+Hollola;109;Muut sote-kustannukset
+Iitti;148;Muut sote-kustannukset
+Kärkölä;228;Muut sote-kustannukset
+Lahti;140;Muut sote-kustannukset
+Myrskylä;120;Muut sote-kustannukset
+Orimattila;108;Muut sote-kustannukset
+Padasjoki;83;Muut sote-kustannukset
+Pukkila;67;Muut sote-kustannukset
